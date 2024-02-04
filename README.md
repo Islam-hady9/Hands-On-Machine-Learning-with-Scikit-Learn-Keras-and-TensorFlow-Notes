@@ -28,4 +28,5 @@ Feel free to navigate through the directories based on the chapters you are inte
 3. Explore the notes, summaries, and code snippets.
 
 Happy learning and exploring the exciting world of machine learning with "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"!
+
 ---
