@@ -59,6 +59,12 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 
 # Part I The Fundamentals of Machine Learning
 ## Chapter 1 The Machine Learning Landscape
+
+**What Is Machine Learning?**
+- Machine learning is the science (and art) of programming computers so they can learn from data.
+- [Machine learning is the] field of study that gives computers the ability to learn without being explicitly programmed. —Arthur Samuel, 1959
+- A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. —Tom Mitchell, 1997
+  
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
 ## Chapter 4 Training Models
