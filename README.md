@@ -64,7 +64,11 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 - Machine learning is the science (and art) of programming computers so they can learn from data.
 - [Machine learning is the] field of study that gives computers the ability to learn without being explicitly programmed. —Arthur Samuel, 1959
 - A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. —Tom Mitchell, 1997
-  
+
+**Why Use Machine Learning?**
+1. First you would examine what spam typically looks like. You might notice that some words or phrases (such as “4U”, “credit card”, “free”, and “amazing”) tend to come up a lot in the subject line. Perhaps you would also notice a few other patterns in the sender’s name, the email’s body, and other parts of the email.
+2. You would write a detection algorithm for each of the patterns that you noticed, and your program would flag emails as spam if a number of these patterns were detected.
+   
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
 ## Chapter 4 Training Models
