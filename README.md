@@ -69,6 +69,8 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 1. First you would examine what spam typically looks like. You might notice that some words or phrases (such as “4U”, “credit card”, “free”, and “amazing”) tend to come up a lot in the subject line. Perhaps you would also notice a few other patterns in the sender’s name, the email’s body, and other parts of the email.
 2. You would write a detection algorithm for each of the patterns that you noticed, and your program would flag emails as spam if a number of these patterns were detected.
 3. You would test your program and repeat steps 1 and 2 until it was good enough to launch.
+
+**Examples of Applications**
    
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
