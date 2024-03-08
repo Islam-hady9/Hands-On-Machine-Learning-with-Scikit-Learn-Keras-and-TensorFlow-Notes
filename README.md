@@ -71,6 +71,7 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 3. You would test your program and repeat steps 1 and 2 until it was good enough to launch.
 
 **Examples of Applications**
+1.
    
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
