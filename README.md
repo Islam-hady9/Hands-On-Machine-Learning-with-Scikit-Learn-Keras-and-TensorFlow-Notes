@@ -76,7 +76,19 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 - Fluctuating environments (a machine learning system can easily be retrained on new data, always keeping it up to date) Getting insights about complex problems and large amounts of data
 
 **Examples of Applications**
-1.
+1. Analyzing images of products on a production line to automatically classify them
+2. Detecting tumors in brain scans
+3. Automatically classifying news articles
+4. Automatically flagging offensive comments on discussion forums
+5. Summarizing long documents automatically
+6. Creating a chatbot or a personal assistant
+7. Forecasting your company’s revenue next year, based on many performance metrics
+8. Making your app react to voice commands
+9. Detecting credit card fraud
+10. Segmenting clients based on their purchases so that you can design a different marketing strategy for each segment
+11. Representing a complex, high-dimensional dataset in a clear and insightful diagram
+12. Recommending a product that a client may be interested in, based on past purchases
+13. Building an intelligent bot for a game
    
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
