@@ -89,6 +89,12 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 11. Representing a complex, high-dimensional dataset in a clear and insightful diagram
 12. Recommending a product that a client may be interested in, based on past purchases
 13. Building an intelligent bot for a game
+
+**Types of Machine Learning Systems**
+- Supervised learning
+  In supervised learning, the training set you feed to the algorithm includes the desired solutions, called labels
+- Unsupervised learning
+  In unsupervised learning, as you might guess, the training data is unlabeled
    
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
