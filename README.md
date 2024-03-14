@@ -95,6 +95,8 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
   In supervised learning, the training set you feed to the algorithm includes the desired solutions, called labels
 - Unsupervised learning
   In unsupervised learning, as you might guess, the training data is unlabeled
+- Semi-supervised learning
+  Since labeling data is usually time-consuming and costly, you will often have plenty of unlabeled instances, and few labeled instances. Some algorithms can deal with data that’s partially labeled. This is called semi-supervised learning
    
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
