@@ -91,16 +91,11 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 13. Building an intelligent bot for a game
 
 **Types of Machine Learning Systems**
-- Supervised learning
-  In supervised learning, the training set you feed to the algorithm includes the desired solutions, called labels
-- Unsupervised learning
-  In unsupervised learning, as you might guess, the training data is unlabeled
-- Semi-supervised learning
-  Since labeling data is usually time-consuming and costly, you will often have plenty of unlabeled instances, and few labeled instances. Some algorithms can deal with data that’s partially labeled. This is called semi-supervised learning
-- Self-supervised learning
-  Another approach to machine learning involves actually generating a fully labeled dataset from a fully unlabeled one
-- Reinforcement learning
-  Reinforcement learning is a very different beast. The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return
+- Supervised learning: In supervised learning, the training set you feed to the algorithm includes the desired solutions, called labels
+- Unsupervised learning: In unsupervised learning, as you might guess, the training data is unlabeled
+- Semi-supervised learning: Since labeling data is usually time-consuming and costly, you will often have plenty of unlabeled instances, and few labeled instances. Some algorithms can deal with data that’s partially labeled. This is called semi-supervised learning
+- Self-supervised learning: Another approach to machine learning involves actually generating a fully labeled dataset from a fully unlabeled one
+- Reinforcement learning: Reinforcement learning is a very different beast. The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return
    
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
