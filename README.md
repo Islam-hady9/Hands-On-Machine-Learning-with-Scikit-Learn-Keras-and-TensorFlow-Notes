@@ -60,45 +60,38 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 # Part I The Fundamentals of Machine Learning
 ## Chapter 1 The Machine Learning Landscape
 
-**What Is Machine Learning?**
-- Machine learning is the science (and art) of programming computers so they can learn from data.
-- [Machine learning is the] field of study that gives computers the ability to learn without being explicitly programmed. —Arthur Samuel, 1959
-- A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. —Tom Mitchell, 1997
+### What Is Machine Learning?
 
-**Why Use Machine Learning?**
-1. First you would examine what spam typically looks like. You might notice that some words or phrases (such as “4U”, “credit card”, “free”, and “amazing”) tend to come up a lot in the subject line. Perhaps you would also notice a few other patterns in the sender’s name, the email’s body, and other parts of the email.
-2. You would write a detection algorithm for each of the patterns that you noticed, and your program would flag emails as spam if a number of these patterns were detected.
-3. You would test your program and repeat steps 1 and 2 until it was good enough to launch.
+- Machine learning is the science (and art) of programming computers so they can learn from data.
+- [Machine learning is the] field of study that gives computers the ability to learn without being explicitly programmed. **—Arthur Samuel, 1959**
+- A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. **—Tom Mitchell, 1997**
+
+### Why Use Machine Learning?
 
 **To summarize, machine learning is great for:**
+
 - Problems for which existing solutions require a lot of finetuning or long lists of rules (a machine learning model can often simplify code and perform better than the traditional approach)
 - Complex problems for which using a traditional approach yields no good solution (the best machine learning techniques can perhaps find a solution)
-- Fluctuating environments (a machine learning system can easily be retrained on new data, always keeping it up to date) Getting insights about complex problems and large amounts of data
+- Fluctuating environments (a machine learning system can easily be retrained on new data, always keeping it up to date) 
+- Getting insights about complex problems and large amounts of data.
 
-**Examples of Applications**
-1. Analyzing images of products on a production line to automatically classify them
-2. Detecting tumors in brain scans
-3. Automatically classifying news articles
-4. Automatically flagging offensive comments on discussion forums
-5. Summarizing long documents automatically
-6. Creating a chatbot or a personal assistant
-7. Forecasting your company’s revenue next year, based on many performance metrics
-8. Making your app react to voice commands
-9. Detecting credit card fraud
-10. Segmenting clients based on their purchases so that you can design a different marketing strategy for each segment
-11. Representing a complex, high-dimensional dataset in a clear and insightful diagram
-12. Recommending a product that a client may be interested in, based on past purchases
-13. Building an intelligent bot for a game
+### Examples of Applications
 
-**Types of Machine Learning Systems**
-- Supervised learning: In supervised learning, the training set you feed to the algorithm includes the desired solutions, called labels
-- Unsupervised learning: In unsupervised learning, as you might guess, the training data is unlabeled
-- Semi-supervised learning: Since labeling data is usually time-consuming and costly, you will often have plenty of unlabeled instances, and few labeled instances. Some algorithms can deal with data that’s partially labeled. This is called semi-supervised learning
-- Self-supervised learning: Another approach to machine learning involves actually generating a fully labeled dataset from a fully unlabeled one
-- Reinforcement learning: Reinforcement learning is a very different beast. The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return
+1. Analyzing images of products on a production line to automatically classify them.
+2. Detecting tumors in brain scans.
+3. Automatically classifying news articles.
+4. Automatically flagging offensive comments on discussion forums.
+5. Summarizing long documents automatically.
+6. Creating a chatbot or a personal assistant.
+7. Forecasting your company’s revenue next year, based on many performance metrics.
+8. Making your app react to voice commands.
+9. Detecting credit card fraud.
+10. Segmenting clients based on their purchases so that you can design a different marketing strategy for each segment.
+11. Representing a complex, high-dimensional dataset in a clear and insightful diagram.
+12. Recommending a product that a client may be interested in, based on past purchases.
+13. Building an intelligent bot for a game.
 
-**Batch and Online Learning**
-- Another criterion used to classify Machine Learning systems is whether or not the system can learn incrementally from a stream of incoming data.
+### Types of Machine Learning Systems
   
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
