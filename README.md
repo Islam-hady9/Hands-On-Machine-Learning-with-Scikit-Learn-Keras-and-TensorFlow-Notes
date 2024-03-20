@@ -93,7 +93,11 @@ Happy learning and exploring the exciting world of machine learning with "Hands-
 
 ### Types of Machine Learning Systems
 
-1. 
+There are so many different types of machine learning systems that it is useful to classify them in broad categories, based on the following criteria:
+
+- How they are supervised during training (supervised, unsupervised, semi-supervised, self-supervised, and others)
+- Whether or not they can learn incrementally on the fly (online versus batch learning)
+- Whether they work by simply comparing new data points to known data points, or instead by detecting patterns in the training data and building a predictive model, much like scientists do (instance-based versus model-based learning)
   
 ## Chapter 2 End-to-End Machine Learning Project
 ## Chapter 3 Classification
